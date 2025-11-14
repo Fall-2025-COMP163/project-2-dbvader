@@ -16,6 +16,7 @@ class SimpleBattle:
     Simple battle system provided for you to test your characters.
     DO NOT MODIFY THIS CLASS - just use it to test your character implementations.
     """
+      
     
     def __init__(self, character1, character2):
         self.char1 = character1
